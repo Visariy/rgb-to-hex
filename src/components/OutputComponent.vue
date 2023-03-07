@@ -72,16 +72,10 @@ watch(RgbState.rgbArray, () => {
   display: flex;
   justify-content: center;
   margin-top: 50px;
+  padding-bottom: 50px;
   #color{
     width: 300px;
     height: 200px;
   }
 }
-
-@media screen and (max-height: 1200px) and (max-width: 768px) {
-  .color-container{
-    padding-bottom: 50px;
-  }
-}
-
 </style>

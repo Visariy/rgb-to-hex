@@ -78,7 +78,7 @@ watch(RgbState.rgbArray, () => {
   }
 }
 
-@media screen and (max-height: 900px) {
+@media screen and (max-height: 1200px) and (max-width: 768px) {
   .color-container{
     padding-bottom: 50px;
   }

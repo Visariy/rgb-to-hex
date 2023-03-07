@@ -78,4 +78,10 @@ watch(RgbState.rgbArray, () => {
   }
 }
 
+@media screen and (max-height: 900px) {
+  .color-container{
+    padding-bottom: 50px;
+  }
+}
+
 </style>

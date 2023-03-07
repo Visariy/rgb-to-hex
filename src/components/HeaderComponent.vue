@@ -15,7 +15,7 @@
 <style scoped lang="scss">
 
 .title-container {
-  padding-top: 300px;
+  padding-top: 150px;
 
   .title {
     display: flex;

@@ -9,6 +9,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "pinia": "^2.0.33",
     "vue": "^3.2.13"
   },
   "devDependencies": {
